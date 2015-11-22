@@ -33,3 +33,4 @@ reverse: false
 
 gems:
   - jekyll-paginate
+  - jemoji
