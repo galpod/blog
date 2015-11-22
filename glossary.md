@@ -2,7 +2,6 @@
 layout: page
 title: Glossary
 ---
-
 # Glossary
 I'm trying out this glossary thing. It's very nascent, but imagine it would contain all the technical terms I use. Do let me know if it's helpful! :)
 
