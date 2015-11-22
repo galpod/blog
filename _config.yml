@@ -1,0 +1,35 @@
+# Site settings
+title: Developmental Mommy
+description: "Developmental research from a mommy perspective (or vice versa)"
+url: "http://www.galpod.com/"
+author:
+  name: "Gal Podjarny"
+
+# Build settings
+baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /
+markdown: kramdown
+source: .
+destination: ./_site
+permalink: /:title
+paginate: 8
+paginate_path: /page:num/
+
+# Default values
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+# Custom variables
+version: "1.1.0"
+
+# Options
+custom_header: true
+custom_nav_footer: true
+reverse: false
+
+gems:
+  - jekyll-paginate
