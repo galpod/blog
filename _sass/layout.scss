@@ -2,7 +2,7 @@
 
 /* Navigation */
 
-#nav, #nav-left { 
+#nav, #nav-left {
   a {
     display: block;
     color: $background-color;
@@ -133,6 +133,9 @@
   h1 {
   	font-family: 'Signika', sans-serif; //Emerald logo font
     font-weight: 600;
+  }
+  h3 {
+    font-weight: normal;
   }
   &:after {
   	display: block;
