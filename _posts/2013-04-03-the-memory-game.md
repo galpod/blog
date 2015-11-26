@@ -5,9 +5,9 @@ date: 2013-04-03 21:20:03.000000000 +01:00
 
 ---
 [caption id="attachment_239" align="aligncenter" width="300"][  
-![Photo Credit: NesQuarX]({{ site.baseurl }}/assets/forget-me-nots.jpg?w=300)](https://galpod.files.wordpress.com/2013/04/forget-me-nots.jpg) Photo Credit: NesQuarX[/caption]
+![Forget-me-nots]({{ site.baseurl }}assets/forget-me-nots2.jpg "Photo Credit: NesQuarX")
 
-So, after our in-depth [exploration of inhibitory control](http://galpod.wordpress.com/2013/03/06/when-simon-doesnt-say-inhibitory-control-in-children/) and [all it means](http://galpod.wordpress.com/2013/03/26/the-marshmallow-task-revisited/), we are ready to plunge into the next construct that is typically a part of [Executive Function](http://galpod.wordpress.com/2013/02/28/whos-the-executive/). This process is the “updating” process, or working memory.
+So, after our in-depth [exploration of inhibitory control](https://galpod.com/when-simon-doesnt-say-inhibitory-control-in-children/) and [all it means](https://galpod.com/the-marshmallow-task-revisited/), we are ready to plunge into the next construct that is typically a part of [Executive Function](https://galpod.com/whos-the-executive/). This process is the “updating” process, or working memory.
 
 ## What is Working Memory?
 
