@@ -1,13 +1,17 @@
 ---
 layout: post
-title: A Day At The Museum
-date: 2015-11-19 10:24:45.000000000 +00:00
+title: An Anti-Flynn Effect?
+date: 2015-11-26 10:24:45.000000000 +00:00
 ---
 ![Ancient Mummy]({{ site.baseurl }}assets/museum-mummy.jpg "Photo Credit: Mario Sánchez Prada (Flickr)")
 
-## What helps children learn from their visit to the museum?
+##  
 
-_Quick note: you may have noticed the theme changed. I'm trying a new look. It's a work in progress. Do let me know if you like it!_
+_Quick note: I'm in the process of moving my blog to [Github Pages](https://pages.github.com/), mostly because my techie partner said I should. I will have my blog on my own domain, but will keep updating the wordpress blog until the transformation is complete (which will be when I've finished going over the posts and updating them). If you would like to continue (or begin) to get this blog to your email, you may have to re-register. Stay tuned for updates!_
+
+This post is a bit more theoretical than the one last week. It's because I've seen [this article](https://www.researchgate.net/publication/23570816_Thirty_years_on_-_A_large_anti-Flynn_effect_%28II%29_13-_and_14-year-olds._Piagetian_tests_of_formal_operations_norms_1976-20067) from a researcher I regard highly, but I have so many issues with their conclusion that I just have to write about it. So, basically, this is going to be a _bit_ of a rant. Consider yourself warned.
+
+So, the authors examined the performance of 13- and 14-year-olds on Piagetian tests. Piaget was basically the father of cognitive development: he was the first person to document children's thinking at different ages, and to note that children do not think in the same way as adults. Most of his work was published in the 1960s, and he was very influential in the 1970s, but the influence of his ideas diminished in the 80s when the information-processing theories began to gain popularity. This is a very imprecise history, but you can read more details in many other places. Generally, Piaget had developed some tests that were designed to measure children's 
 
 Last week, an opportunity arose when my daughter commissioned her daddy to take her to a friend’s birthday party (“but no drop-off, daddy! You have to stay the WHOLE time.”). So, my son and I went to the British Museum. For a geeky 6-year-old and his nerdy mama, the British Museum is anthropological heaven. We saw all kinds of things: [mummies](https://www.google.com/culturalinstitute/asset-viewer/mummy-of-cleopatra-from-thebes/twFIeHry_l2q9g), [the Rosetta Stone](https://www.google.com/culturalinstitute/asset-viewer/the-rosetta-stone/DgH6pMM1guUUPA), [6000 years old flint knives](http://www.bbc.co.uk/ahistoryoftheworld/objects/Ow2_U_tATPCxZZ1cthM8gQ), and things that were buried in a ship [1300 years ago](http://www.britishmuseum.org/explore/galleries/europe/room_41_europe_ad_300-1100.aspx).
 
