@@ -4,7 +4,7 @@ title: 'When Simon Doesn’t Say: Inhibitory Control in Children'
 date: 2013-03-06 21:49:06.000000000 +00:00
 
 ---
-![Simon and Garfunkel]({{ site.baseurl }}/assets/simon-and-garfunkel.jpg "Photo Credit: Kapil Karekar)")
+![Simon and Garfunkel]({{site.baseurl}}assets/simon-and-garfunkel.jpg "Photo Credit: Kapil Karekar)")
 
 ## Inhibitory Control? What’s that?
 
