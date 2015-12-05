@@ -4,7 +4,6 @@ title: A Letter To My Son On His Sixth Birthday
 date: 2015-10-22 10:00:24.000000000 +01:00
 
 ---
-![Rubik's Cube]({{ site.baseurl }}assets/Rubiks_cube.png "Photo Credit: Booyabazooka")
 ![A beautiful minion birthday cake]({{ site.baseurl }}assets/Beautiful minion birthday cake.png "Photo Credit: Sweet-Tooth Cakes and Cupcakes")
 
 My love,
