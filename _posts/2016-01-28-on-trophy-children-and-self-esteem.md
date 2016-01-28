@@ -3,7 +3,7 @@ layout: post
 title: On Trophy Children and Self-Esteem
 date: 2016-01-28 10:24:45.000000000 +00:00
 ---
-![Gold Trophy]({{ site.baseurl }}assets/Gold_trophy.jpg)
+![Gold Trophy]({{ site.baseurl }}assets/Gold_Trophy.jpg)
 
 ###Why depending on your child's achievements for your self-esteem is bad for your child _and_ for you.
 
