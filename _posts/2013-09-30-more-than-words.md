@@ -6,7 +6,7 @@ date: 2013-09-30 22:17:22.000000000 +01:00
 ---
 ![A girl giving a double thumbs-up]({{ site.baseurl }}assets/girl-thumbs-up.jpg "Photo Credit: Brendan Riley")
 
-# The way parents praise their children impacts later beliefs about ability.
+### The way parents praise their children impacts later beliefs about ability.
 
 This post is rather longer than usual, but I felt quite a bit of background was needed. Bear with me, as the study is absolutely fascinating. I hope this will spark a discussion in the parenting community about the way we talk to our kids.
 
