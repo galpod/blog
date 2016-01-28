@@ -4,7 +4,7 @@ title: More than Words
 date: 2013-09-30 22:17:22.000000000 +01:00
 
 ---
-![A girl giving a double thumbs-up]({{ site.baseurl }}assets/girl-thumbs-up.jpg "Photo Credit: Brendan Riley")
+![A girl giving a double thumbs-up]({{ site.baseurl }}/assets/girl-thumbs-up.jpg "Photo Credit: Brendan Riley")
 
 # The way parents praise their children impacts later beliefs about ability.
 
