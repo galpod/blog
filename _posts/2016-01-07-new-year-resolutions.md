@@ -5,9 +5,9 @@ date: 2016-01-07 10:24:45.000000000 +00:00
 ---
 ![Happy New Year]({{ site.baseurl }}assets/Happy New Year.jpg)
 
-##The Dilemma of New Year Resolutions
+## The Dilemma of New Year Resolutions
 
-####I'm taking stock and trying out a new approach to the science-public connection.
+#### I'm taking stock and trying out a new approach to the science-public connection.
 
 New Year Resolutions are ranked rather high on my cliché scale. Everyone is writing about how the resolutions never work, so there's no point in making them. Lifehack's Steve Errey even [said](http://www.lifehack.org/articles/featured/new-years-resolutions-dont-work-heres-why.html) that resolutions reduce self-esteem (this sent me through a self-esteem rabbit hole in Google Scholars which I will share at some point; I did not find any empirical evidence for this hypothesis).
 

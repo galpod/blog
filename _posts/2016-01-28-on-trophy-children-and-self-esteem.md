@@ -5,7 +5,7 @@ date: 2016-01-28 10:24:45.000000000 +00:00
 ---
 ![Gold Trophy]({{ site.baseurl }}assets/Gold_Trophy.jpg)
 
-###Why depending on your child's achievements for your self-esteem is bad for your child _and_ for you.
+### Why depending on your child's achievements for your self-esteem is bad for your child _and_ for you.
 
 We live in a rather posh neighbourhood. There are independent cafés and designer clothes shops everywhere. The kids attending school with my children are unfortunately almost uniformly white, and about 90% of them (that's an estimate, I did not collect data on this) come from a two-parents (mum and dad) home in which mum is home with a younger sibling. Why am I telling you this? Because I have encountered an interesting phenomenon in this neighbourhood: apparently you start applying to secondary schools (junior high and high-school combined, roughly) when the child is in year 2. Second grade. When your child is 7 years old, that's when you should begin to worry about where she'll go to high-school. That's because some high-schools are the "right" high-schools, and increase your child to later attend either Oxford or Cambridge (think ivy league colleges). I thought it was insane, but I'm a minority it would seem. At least in this neighbourhood.
 

@@ -5,7 +5,7 @@ date: 2015-12-11 10:24:45.000000000 +00:00
 ---
 ![A boy reads a book in a library]({{ site.baseurl }}assets/Boy in Library.jpg)
 
-##Is the lack of physical books problematic for children's education?
+## Is the lack of physical books problematic for children's education?
 
 So, I read [this op-ed](https://www.nytimes.com/2015/12/06/fashion/our-bare-shelves-our-selves.html?_r=0) in the New-York Times last week (how very scholarly of me...). Teddy Wayne argues that having more digital and less physical books may detract from children's ability to pick up their parents' books and be affected by them (for the better, I assume). He's basing this argument both on his experience with his parents' vinyl records collections, and [a study](https://sf.oxfordjournals.org/content/92/4/1573.full) that was done recently supporting the idea that the number of books in the home has large effects on children's academic achievements. He argues that "Owning books in the home is one of the best things you can do for your children academically." And he suggests that digital books may not have the same effects.
 

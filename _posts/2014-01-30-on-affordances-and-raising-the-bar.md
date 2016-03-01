@@ -6,7 +6,7 @@ date: 2014-01-30 22:15:08.000000000 +00:00
 
 ![Monkey Bars]({{ site.baseurl }}assets/monkey-bars.jpg)
 
-##Some thoughts about affordances. Then, some thoughts about the accessibility of science.
+## Some thoughts about affordances. Then, some thoughts about the accessibility of science.
 
 My class this week included me stumbling through [Karen Adolph’s work](https://psych.nyu.edu/adolph/) on how infants perceive and negotiate physical obstacles. She does awesome work, you should really check her website out. There are also [videos](https://www.youtube.com/playlist?list=PL5EF2B28D7969D368). Side note: I have become addicted to showing videos in my class.
 
