@@ -4,7 +4,7 @@ title: Gender Bias--Mothers do it too.
 date: 2016-02-28 09:24:45.000000000 +00:00
 ---
 ![Baby Crawling]({{ site.baseurl }}assets/Baby crawling.jpg)
-
+ 
 ## We treat baby boys and baby girls differently. Pretty much from day one. Without knowing it.
 I tend to go on tangents. Often. I was really fighting this tendency while I was doing the Ph.D., because I needed to focus. However, now that I'm done, I read all kinds of random things. I still feel like I have to apologize for that, but I only read the random things once I'm done with my daily quota of writing academic journal papers, so that's something. I'm telling you this because that's how I got to the article I'll talk about today: I was reading a random book I picked up at the library, and the author was describing a study and I thought to myself, "hmm, this would be a good blog post". I would expect that the frequency of random posts would increase, by the way.
 
