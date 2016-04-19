@@ -10,6 +10,9 @@ I'm trying out this glossary thing. It's very nascent, but imagine it would cont
 
 Here is an example of a study that used a 2x2 design: [Museum learning study](https://galpod.com/a-day-at-the-museum/). There are many studies that used a 2x2 design, obviously, but none that I've referred to yet.
 
+## Mediation
+This is a statistical term that sounds complicated, but really is not. When we have two variables and a third variable explains the relation between these two variables, we call the third variable a mediator. So, for example, we know that parents from lower [socioeconomic status](https://galpod.com/glossary#SES) tend to resort to more harsh parenting behaviours. So, without looking any closer, it could appear that parents from lower SES just choose the wrong behaviours--and the road to parenting classes is quite short from there. However, the variable that *mediates* or explains this link is psychological distress: parents from lower socioeconomic status experience more psychological distress, and parents with more psychological distress tend to exhibit more harsh parenting behaviours. As soon we enter psychological distress into the equation, it [explains the link between low socioeconomic status and harsh parenting behaviours](https://onlinelibrary.wiley.com/doi/10.1111/j.1467-8624.1990.tb02781.x/abstract). So, in other words, once psychological distress is in the equation, there is no longer a statistical link between SES and parenting behaviours. Parents from lower SES do not need parenting classes (any more than parents from high SES do), they need less psychological distress.
+
 ## Meta-analysis
 A study of studies. Basically, the scientist collects published studies and runs statistics on all the data that was used in all the studies. There are certain limitations to this method, but it's a powerful tool because it allows us to see whether a certain effect is consistent across studies. You can also divide the studies along certain factors (for instance, what country were they conducted, the age of the children in the sample, etc.) and see if these factors influence the results.
 
@@ -34,3 +37,6 @@ Here are some excellent studies that have used random assignment, and are theref
 
 ## Reliability
 When something is reliable it works in the same way for a long(ish) period of time. In psychological testing, reliability is the tendency of people to get similar scores on the test. Think about a personality test, and assume that personality is a stable trait (i.e., we don't change our personality from day to day). A good personality test would provide us with the same results regardless of when and how many times we take it. So, to test for reliability, researchers typically have participants do the same test twice, with a certain period of time in between. If the scores are similar between the first time you take the test and the second time you take the test, the researchers conclude the test is reliable.
+
+## SES
+Socioeconomic Status (or SES) is an index that is typically composed of things such as people's education level, income level, and sometimes the neighbourhood they live in. In developmental research, parental education is usually the forefront of these variables, as it has a significant impact on children's outcomes.
