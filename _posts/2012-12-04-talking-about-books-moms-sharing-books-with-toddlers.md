@@ -3,7 +3,7 @@ layout: post
 title: 'Talking about Books: Moms Sharing Books with Toddlers'
 date: 2012-12-04 18:01:53.000000000 +00:00
 ---
-[caption id="attachment_175" align="aligncenter" width="225"][![Photo credit: Monkey Business Images]({{ site.baseurl }}/assets/mom-baby-reading.jpg?w=225)](http://galpod.wordpress.com/2012/12/04/talking-about-books-moms-sharing-books-with-toddlers/mom-baby-reading/) Photo credit: Monkey Business Images[/caption]
+[Mom and toddler sharing a book]({{ site.baseurl }}assets/mom-baby-reading.jpg)
 
 ## A recent article shows that books with a story line provide moms (and presumably dads) with unique opportunities for complex talk. What do you talk about when you read a story with your baby?
 
