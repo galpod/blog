@@ -3,7 +3,7 @@ layout: post
 title: Keep Asking Lots Of Questions!
 date: 2016-04-15 10:00:00.000000000 +00:00
 ---
-![Sid The Science Kid]({{ site.baseurl }}assets/sid the science kid.jpg)
+![Sid The Science Kid]({{ site.baseurl }}assets/Sid the science kid.jpg)
 
 ## Asking toddlers wh- questions improves their vocabulary and reasoning skills.
 
