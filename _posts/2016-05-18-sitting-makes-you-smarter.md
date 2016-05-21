@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Does Sitting Makes Babies Smarter?
-date: 2016-05-18 10:00:45.000000000 +00:00
+title: "Does Sitting Makes Babies Smarter?"
+date: {}
+published: true
 ---
-![Baby Sitting]({{ site.baseurl }}assets/baby sitting.jpg)
+![Baby Sitting]({{ site.url }}assets/baby sitting.jpg)
 
 ## A study claims that sitting up affects vocabulary. Conclusion: critical reading is important.
 
@@ -38,4 +39,4 @@ To summarize, it does not seem that this article brings enough evidence to suppo
 
 So, there are two points to this post. First, scientists are not perfect, and that critical consumption of research material is extremely important. We make mistakes. Fortunately, the whole point of the scientific process is to challenge each other's claims and poke holes in each other's theories. When we do that we step closer to a more accurate understanding of the world.
 
-The second point of this post is that the story of motor and cognitive development is still an interesting one. It looks like some kids are faster learners, and these kids master or improve all of their skills at a higher rate than other kids. This applies both to their motor **and** their language development, at least that we know of based on this study. It would be interesting to know why some kids are faster learners. The sample in this study included almost only white middle-class families, so [SES](http://galpod.com/glossary#ses) alone cannot explain the difference. If we can find out what makes some kids faster learners than others, we may be able to unlock these skills in other kids as well. And until then&mdash;let your babies roam around, they learn a lot from it.    
+The second point of this post is that the story of motor and cognitive development is still an interesting one. It looks like some kids are faster learners, and these kids master or improve all of their skills at a higher rate than other kids. This applies both to their motor **and** their language development, at least that we know of based on this study. It would be interesting to know why some kids are faster learners. The sample in this study included almost only white middle-class families, so [SES](http://galpod.com/glossary#ses) alone cannot explain the difference. If we can find out what makes some kids faster learners than others, we may be able to unlock these skills in other kids as well. And until then&mdash;let your babies roam around, they learn a lot from it.
