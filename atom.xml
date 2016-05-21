@@ -23,7 +23,7 @@ layout: null
    <id>{{ site.url }}{{ post.id }}</id>
    <updated>{{ post.date | date_to_xmlschema }}</updated>
    <content type="html">
-     &lt;img src="{{ site.url }}assets/{{ post.image }}" alt="{{ post.image-text }}"&gt;&lt;br/&gt;
+     &lt;img width="100%" style="width:100%" src="{{ site.url }}assets/{{ post.image }}" alt="{{ post.image-text }}"&gt;&lt;br/&gt;
      {{ post.content | xml_escape | truncatewords:50 }}
    </content>
  </entry>
