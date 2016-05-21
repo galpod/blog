@@ -4,6 +4,8 @@ title: Does Sitting Makes Babies Smarter?
 date: 2016-05-18 10:00:45.000000000 +00:00
 image: baby_sitting.jpg
 image-text: Baby Sitting
+excerpt: A study claims that sitting up affects vocabulary. Conclusion&#58; critical reading is important.
+new: true
 ---
 ## A study claims that sitting up affects vocabulary. Conclusion: critical reading is important.
 
