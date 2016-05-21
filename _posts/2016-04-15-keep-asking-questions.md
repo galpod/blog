@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Keep Asking Lots Of Questions!"
-date: {}
+date: 2016-04-15 10:00:00.000000000 +00:00
 published: true
 ---
 ![Sid The Science Kid]({{ site.url }}assets/Sid the science kid.jpg)
