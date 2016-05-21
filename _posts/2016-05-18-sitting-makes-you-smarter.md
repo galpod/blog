@@ -1,10 +1,8 @@
 ---
 layout: post
 title: "Does Sitting Makes Babies Smarter?"
-date: {}
+date: 2016-05-15 10:00:00.000000000 +00:00
 published: true
----
----
 ---
 ![Baby Sitting]({{ site.url }}assets/baby sitting.jpg)
 
