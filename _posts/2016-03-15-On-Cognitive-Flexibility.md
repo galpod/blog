@@ -2,8 +2,11 @@
 layout: post
 title: On Cognitive Flexibility
 date: 2016-03-15 10:00:00.000000000 +00:00
+image: Contortion_backbend.jpg
+image-text: Very Flexible Girl
+excerpt: Can preschoolers think about something in more than one way? I explain my doctoral research, which looked at why previous research answered this question in the negative, and why that's not entirely accurate.
+new: true
 ---
-![Very Flexible Girl]({{ site.baseurl }}assets/Contortion_backbend.jpg "Not this kind of flexibility.")
 
 ## Can Preschoolers Think About Something In More Than One Way?
 

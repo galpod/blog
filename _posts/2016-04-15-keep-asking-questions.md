@@ -3,8 +3,11 @@ layout: post
 title: "Keep Asking Lots Of Questions!"
 date: 2016-04-15 10:00:00.000000000 +00:00
 published: true
+image: Sid_the_science_kid.jpg
+image-text: Sid The Science Kid
+excerpt: A study with dads found that asking toddlers wh- questions improves their vocabulary and reasoning skills.
+new: true
 ---
-![Sid The Science Kid]({{ site.url }}assets/Sid the science kid.jpg)
 
 ## Asking toddlers wh- questions improves their vocabulary and reasoning skills.
 
