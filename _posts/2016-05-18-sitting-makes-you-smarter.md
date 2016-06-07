@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Does Sitting Makes Babies Smarter?
+title: Does Sitting Make Babies Smarter?
 date: 2016-05-18 10:00:45.000000000 +00:00
 image: baby_sitting.jpg
 image-text: Baby Sitting
