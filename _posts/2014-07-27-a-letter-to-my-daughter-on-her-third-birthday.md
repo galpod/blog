@@ -4,7 +4,7 @@ title: A Letter To My Daughter On Her Third Birthday
 date: 2014-07-27 10:24:45.000000000 +00:00
 image: birthday-3.jpg
 image-text: Three Baby Chics Celebrating a Birthday
-excerpt: A Letter To My Daughter On Her Second Birthday
+excerpt: A Letter To My Daughter On Her Third Birthday
 new: true
 ---
 
