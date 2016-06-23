@@ -2,9 +2,11 @@
 layout: post
 title: Snazzy Title
 date: 2015-11-26 10:24:45.000000000 +00:00
+image: baby_sitting.jpg
+image-text: Baby Sitting
+excerpt: A study claims that sitting up affects vocabulary. Conclusion&#58; critical reading is important.
+new: true
 ---
-![Baby Sitting]({{ site.baseurl }}assets/baby sitting.jpg")
-
 
 
 So, remember when I wrote about how [asking toddlers questions helps them learn new words](https://galpod.com/keep-asking-questions)? And also, remember when I wrote about how [motor development is important and can be very very cool](https://galpod.com/gender-bias-mothers-do-it-too)? Today we'll bring together both these topics: how motor development affects children's language skills.
