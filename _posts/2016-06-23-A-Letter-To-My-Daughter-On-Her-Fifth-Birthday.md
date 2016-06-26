@@ -2,7 +2,7 @@
 layout: post
 title: A Letter To My Daughter On Her Fifth Birthday
 date: 2016-06-23 10:24:45.000000000 +00:00
-image: Birthday_cake.JPG
+image: 5-Birthday_cake.jpg
 image-text: Birthday Cake
 excerpt: A Letter To My Daughter On Her Fifth Birthday
 new: true
