@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mindfulness: Really?"
-date: 2016-07-18 10:00:00.000000000 +00:00
+date: 2016-07-19 10:00:00.000000000 +00:00
 image: cool-kid-meditating.jpg
 image-text: Cool Kid Meditating
 excerpt: Can mindfulness be your tool to deal with the kids in the summer holidays?
