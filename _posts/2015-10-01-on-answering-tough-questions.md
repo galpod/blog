@@ -7,6 +7,7 @@ image-text: Child asking question in class
 excerpt: How do you answer questions such as "how heavy is the moon?"
 new: true
 ---
+
 _First, a little thank you note: to those of you who have been patient with me during the last year, in which my posts were scarce, thank you for not giving up on me. Hopefully now that my Ph.D. is done (yay!), I’ll have more time for the fun stuff—like writing this blog_ _J_
 
 My son is well into what I call the “tough questions stage”. If you ever spent an hour with an early primary school child, you know what I mean. A couple of highlights are, “Mommy, where was I before I was in your tummy?”, “How do we know what happened before ALL the people were born?”, and “How heavy is the moon?”

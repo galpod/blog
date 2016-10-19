@@ -8,7 +8,7 @@ excerpt: My son is 7. SEVEN. When did that happen??
 new: true
 ---
 
-Programming Note: Yes, I said I'd be back in the fall. Technically, it's still fall (or, as my daughter regularly corrects me, autumn). Also, my sister got married (yay!) so it's been a busy September. Hopefully everything will be back to normal in a couple of weeks. Thank you for your patience.
+_Programming Note: Yes, I said I'd be back in the fall. Technically, it's still fall (or, as my daughter regularly corrects me, autumn). Also, my sister got married (yay!) and I started volunteering in (apparently too many) places, so it's been a bit busy in the last couple of months. Hopefully everything settles in over the next few weeks. Thank you for your patience._
 
 My Dearest,
 
@@ -20,4 +20,7 @@ You are tall and lanky, and one of the kindest kids I know. You share everything
 
 You started developing a sense of humor, and a knack for telling tall tales. Because you never used to lie at all we never had to talk to you about how to let people know when you're telling about something that actually happened and something you made up, and what the consequences are for lying. It's going to take time until we sort out all of that, but you are such a good kid that I'm not too worried about that.
 
-You take things very personally. I wish I could help you see that not everything that goes wrong is because someone was out to get you. But I know it took me so long to fight this first reaction, and I really don't know how to help you with that. It's still my first reaction, but my best advice on that is just take a breath and move past that, which you are a bit too young to implement.
+So for this coming year, I wish for you to be true to yourself. It's hard to really listen to yourself when there are teachers and friends and sister and parents who all tell you what they think you should do. But I hope you can find a way to listen to all of these people, and then also listen to yourself and choose the path that is right for you. Oh, and I wish for that front tooth to finally drop ;)
+
+Love,
+Ima.
