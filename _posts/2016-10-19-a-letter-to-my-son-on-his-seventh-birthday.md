@@ -2,8 +2,8 @@
 layout: post
 title: A Letter To My Son On His Seventh(!!) Birthday
 date: 2016-10-19 10:24:45.000000000 +00:00
-image: baby_sitting.jpg
-image-text: Baby Sitting
+image: seven-in-legos.jpg
+image-text: The figure 7 made out of legos.
 excerpt: My son is 7. SEVEN. When did that happen??
 new: true
 ---
