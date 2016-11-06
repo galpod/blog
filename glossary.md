@@ -23,6 +23,7 @@ Here are some examples of meta-analyses:
 *   [The staying-at-home vs. working study](https://galpod.com/do-children-benefit-from-staying-at-home/)
 *   [The popularity study](https://galpod.com/the-popularity-contest/)
 
+
 ##Pre-post design
 A pre-post design is very simply a design in which you measure a target behaviour before and after the intervention. Think of the before and after pictures of people who have done the magic diet of the day. The problem with this design is that it does not account for other variables. For example, let's say you are measuring the effects of giving your child a candy after every time she goes potty. You measure the number of times she goes potty in a day before you begin (the pre-intervention measure, or baseline), then you run the intervention (say, 2 weeks of candy every single time she goes potty). You then measure the number of times she goes potty in a day again (the post-intervention measure), and see whether it increased. The problem with this design is that the passage of time can account for some of the change (your girl is 2 weeks older, and that is a lot of time when you are 2 or 3 years old). Just by doing a pre-post measure you cannot rule out that the child is just a bit older, more mature, or whatever. So, you would have to have a control group (participants that do not get the candy intervention)--and preferably randomly assign them into the groups--in order to reach any conclusions about the effectiveness of the intervention.
 
@@ -34,6 +35,7 @@ Here are some excellent studies that have used random assignment, and are theref
 *   [The "helpful babies" study](https://galpod.com/monkey-see-monkey-help/)
 *   [The "sign language yes or no" study](https://galpod.com/baby-sign-language-what-is-it-good-for/)
 *   [The "reliable marshmallow task" study](https://galpod.com/the-marshmallow-task-revisited/)
+
 
 ## Reliability
 When something is reliable it works in the same way for a long(ish) period of time. In psychological testing, reliability is the tendency of people to get similar scores on the test. Think about a personality test, and assume that personality is a stable trait (i.e., we don't change our personality from day to day). A good personality test would provide us with the same results regardless of when and how many times we take it. So, to test for reliability, researchers typically have participants do the same test twice, with a certain period of time in between. If the scores are similar between the first time you take the test and the second time you take the test, the researchers conclude the test is reliable.
