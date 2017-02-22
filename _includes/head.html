@@ -13,4 +13,26 @@
 	<!-- RSS -->
 	<link href="/atom.xml" type="application/atom+xml" rel="alternate" title="ATOM Feed" />
 
+<!--trial-->
+<!-- Schema.org markup for Google+ -->
+<meta itemprop="name" content="{{ page.title }}">
+<meta itemprop="description" content="{{ page.excerpt | strip_html }}">
+<meta itemprop="image" content="{{ site.url }}assets/{{ page.image }}">
+
+<!-- Twitter Card data -->
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@galpod">
+<meta name="twitter:title" content="{{ page.title }}">
+<meta name="twitter:description" content="{{ page.excerpt | strip_html }}">
+<meta name="twitter:creator" content="@galpod">
+<meta name="twitter:image" content="{{ site.url }}assets/{{ page.image }}">
+
+<!-- Open Graph data -->
+<meta property="og:title" content="{{ page.title }}" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="{{ page.url }}" />
+<meta property="og:image" content="{{ site.url }}assets/{{ page.image }}" />
+<meta property="og:description" content="{{ page.excerpt | strip_html }}" />
+<meta property="og:site_name" content="Developmental Mommy" />
+
 </head>
