@@ -7,6 +7,7 @@ image-text: Grandparents with children
 excerpt: A look at the parallels between the beginning and the end of life
 new: true
 ---
+
 So, as you may know, I [lost my father in December](https://galpod.com/Reflections). We are all still adjusting to this new reality of a world in which he does not exist anymore. A world in which I cannot call him to keep me company on my walk back from dropping off the kids; a world in which he doesn’t call me on a weekly basis as a representative of all psychologists with ridiculous questions about human conduct.
 
 One of the ways in which I cope with things is to read a book about it. So, naturally, after I came back from the Shiva in Israel, I ordered the book [“The Truth About Grief” by Ruth Davis Konigsberg](https://books.google.co.uk/books/about/The_Truth_About_Grief.html?id=xG41iEwdtYYC&redir_esc=y). At any other time I wouldn’t have gotten this one, if only for the title: it raises, for me at least, all sorts of questions such as “What is truth?” and “Who are you to know *the* absolute truth?” and so on. I was vulnerable, apparently. It’s a good read, don’t get me wrong, but for a book that challenges the “5 stages of grief” theory as having no empirical data to support it, it relies an awful lot on anecdotes and story-telling. But that’s for another time, and probably a different blog.
