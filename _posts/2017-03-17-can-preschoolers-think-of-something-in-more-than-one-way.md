@@ -2,7 +2,7 @@
 layout: post
 title: Can Preschoolers Think of Something in More Than One Way?
 date: 2017-03-17 10:24:45.000000000 +00:00
-image: Ballet_shoes.jpg
+image: Ballet_shoes_xgsuyh.jpg
 image-text: Ballerina doing pointe work
 excerpt: A new task can be used to measure previously underestimated abilities
 new: true
