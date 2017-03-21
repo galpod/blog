@@ -18,6 +18,12 @@
 	  	ga('send', 'pageview');
 
 		</script>
+	
+		<script>
+		var host = "galpod.com";
+		if ((host == window.location.host) && (window.location.protocol != "https:"))
+			window.location.protocol = "https";
+		</script>
 
 	<!-- my custom google search -->
 	{% include my-google-search.html %}
