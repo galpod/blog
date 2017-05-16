@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Critical Reading: Can maternal affect predict IQ?"
-date: 2017-05-12 10:00:00.000000000 +00:00
+date: 2017-05-16 10:00:00.000000000 +00:00
 image: mother-and-baby-fake-smile.jpg
 image-text: Smile as though your life depends on it
 excerpt: A report found that maternal affect at 4 months predict IQ at 7 years. Here's what we can and can't conclude.
