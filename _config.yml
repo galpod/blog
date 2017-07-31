@@ -11,8 +11,6 @@ markdown: kramdown
 source: .
 destination: ./_site
 permalink: /:title
-paginate: 8
-paginate_path: /page:num/
 
 # Default values
 defaults:
@@ -32,5 +30,4 @@ custom_nav_footer: true
 reverse: false
 
 gems:
-  - jekyll-paginate
   - jemoji
