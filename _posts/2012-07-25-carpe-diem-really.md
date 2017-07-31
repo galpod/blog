@@ -3,6 +3,8 @@ layout: post
 title: Carpe Diem? Really?
 date: 2012-07-25 05:00:44.000000000 +01:00
 type: post
+image: painter-landscape.jpg
+image-text: Idyllic Landscape Painter. Not for me.
 published: true
 ---
 A little while ago, Tim Kreider wrote an opinion in the New York Times about [being busy](http://opinionator.blogs.nytimes.com/2012/06/30/the-busy-trap/). He argues that people in the modern world are too busy, and that this is self-imposed-busy, as opposed to survival-busy. He argues that being busy silences our creative brain (he is not the first with [this notion](http://www.amazon.ca/Hare-Brain-Tortoise-Mind-Intelligence/dp/0060955414)).
