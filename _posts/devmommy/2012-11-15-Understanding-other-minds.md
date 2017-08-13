@@ -7,7 +7,7 @@ type: post
 ---
 ## Adults read minds all the time. Children, however, are not so great at it. How come?
 
-[![]({{ site.baseurl }}/assets/mind-reading-machines-on-their-way-13244385591.jpg?w=300 "Photo Credit: RichVintage")](http://galpod.files.wordpress.com/2012/11/mind-reading-machines-on-their-way-13244385591.jpg)
+[![Mind Reading Machine]({{ site.baseurl }}/assets/mind-reading-machines-on-their-way-13244385591.jpg)
 
 Theory of Mind is our reasoning about others’ actions using mental states – wants, thinks, feels, etc. It’s not limited to people: we sometimes say the computer hates us (or is feeling down today) if it doesn’t behave the way we expect it to. And we do it all the time with people. We say that the boy is crying because he is sad, or that the girl took the cookie because she wanted to eat it. In both cases, although we may be perfectly correct, we have no way of seeing the boy’s feelings or the girl’s desires, and therefore this is a **theory** that we form to explain observed behaviour. This is why theory of mind is often called “folk psychology”.
 
