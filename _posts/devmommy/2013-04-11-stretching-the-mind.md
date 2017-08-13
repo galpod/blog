@@ -3,7 +3,7 @@ layout: post
 title: Stretching the Mind
 date: 2013-04-11 21:24:51.000000000 +01:00
 ---
-![Child reaching on a chair]({{ site.baseurl }}assets/child-reaching-on-chair.jpg)
+![Child reaching on a chair]({{ site.baseurl }}/assets/child-reaching-on-chair.jpg)
 
 As promised, this post is about the most fascinating (I think) process that is typically included in [Executive Functions](https://galpod.wordpress.com/2013/02/28/whos-the-executive/): Cognitive Flexibility.
 

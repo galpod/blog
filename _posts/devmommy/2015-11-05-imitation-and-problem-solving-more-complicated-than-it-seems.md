@@ -4,7 +4,7 @@ title: 'Imitation and Problem Solving: More Complicated Than It Seems'
 date: 2015-11-05 10:00:54.000000000 +00:00
 
 ---
-![Rubik's Cube]({{ site.baseurl }}assets/Rubiks_cube.png "Photo Credit: Booyabazooka")
+![Rubik's Cube]({{ site.baseurl }}/assets/Rubiks_cube.png "Photo Credit: Booyabazooka")
 
 This week I have an unusual post. I’m going to talk to you about an article that I think has not managed to answer the question it was asking. I haven’t posted about these kinds of articles, because I didn’t think it would be useful. However, this is part of being scientifically literate: recognizing when the article hasn’t done what it said it would. So I figured I’ll walk you through my thought process on this one.
 

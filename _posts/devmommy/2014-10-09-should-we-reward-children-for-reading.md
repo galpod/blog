@@ -4,7 +4,7 @@ title: Should We Reward Children For Reading?
 date: 2014-10-09 06:46:35.000000000 +01:00
 
 ---
-![Child reading at a book store]({{ site.baseurl }}assets/Child_reading_at_Brookline_Booksmith.jpg "By Tim Pierce via Wikimedia Commons")
+![Child reading at a book store]({{ site.baseurl }}/assets/Child_reading_at_Brookline_Booksmith.jpg "By Tim Pierce via Wikimedia Commons")
 
 One of the nice perks of our Great European Adventure is that we live in a really big city. One of the features of a big city is that there’s practically whatever you want within a walking distance. For example, the local library is closer to our house than my daughter’s nursery (American translation: daycare) is.
 

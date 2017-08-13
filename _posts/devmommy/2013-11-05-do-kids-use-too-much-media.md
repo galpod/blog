@@ -6,7 +6,7 @@ type: post
 
 ---
 # Should we limit screen time or screen content?
-![Child using iPad]({{ site.baseurl }}assets/child-ipad.jpg)
+![Child using iPad]({{ site.baseurl }}/assets/child-ipad.jpg)
 
 The American Academy of Pediatrics recently published their [new guidelines](http://pediatrics.aappublications.org/content/early/2013/10/24/peds.2013-2656) for children’s media use. This, combined with [a new survey](http://mashable.com/2013/10/28/children-under-2-mobile-media-study/) that found that about a third of kids under 2 years of age have used a tablet or smartphone, has the potential to quickly becoming the new “health scare”.
 

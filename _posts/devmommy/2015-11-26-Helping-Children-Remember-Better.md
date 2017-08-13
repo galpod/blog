@@ -3,7 +3,7 @@ layout: post
 title: Helping Children Remember Better
 date: 2015-11-26 10:24:45.000000000 +00:00
 ---
-![Forget-me-nots]({{ site.baseurl }}assets/forget-me-nots.jpg "Photo Credit: Hans Braxmeier (Pixabay)")
+![Forget-me-nots]({{ site.baseurl }}/assets/forget-me-nots.jpg "Photo Credit: Hans Braxmeier (Pixabay)")
 
 ## Can you play memory games to improve your preschooler's working memory?
 

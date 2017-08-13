@@ -3,7 +3,7 @@ layout: post
 title: A Day At The Museum
 date: 2015-11-19 10:24:45.000000000 +00:00
 ---
-![Ancient Mummy]({{ site.baseurl }}assets/museum-mummy.jpg "Photo Credit: Mario Sánchez Prada (Flickr)")
+![Ancient Mummy]({{ site.baseurl }}/assets/museum-mummy.jpg "Photo Credit: Mario Sánchez Prada (Flickr)")
 
 ## What helps children learn from their visit to the museum?
 

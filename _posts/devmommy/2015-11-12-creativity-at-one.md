@@ -4,7 +4,7 @@ title: Creativity at One
 date: 2015-11-12 11:00:00.000000000 +00:00
 
 ---
-![Children's Hand Prints Finger Paint]({{ site.baseurl }}assets/Children Hand Print Fingerpaint.jpg "Photo Credit: Aaron Gilson (Flickr)")
+![Children's Hand Prints Finger Paint]({{ site.baseurl }}/assets/Children Hand Print Fingerpaint.jpg "Photo Credit: Aaron Gilson (Flickr)")
 
 
 It’s nice to have time to read things that are not directly related to my area of research—the perks of being done with the Ph.D... :) So, today I’ll talk about a [very neat study](https://www.researchgate.net/publication/283307718_One-Year-Olds_Think_Creatively_Just_like_their_Parents) looking at divergent thinking. Divergent thinking is what we do when we brainstorm and come up with lots of ideas. It’s a very cool area of research, and it’s kind of related to my research area, which is basically convergent thinking (finding links between objects or events and combine them into a new idea).

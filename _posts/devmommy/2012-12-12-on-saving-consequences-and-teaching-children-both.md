@@ -4,7 +4,7 @@ title: On Saving, Consequences, and Teaching Children Both
 date: 2012-12-12 16:29:36.000000000 +00:00
 
 ---
-![Kid putting money into a piggy bank]({{ site.baseurl }}assets/kid-and-piggy-bank__large.jpg "Photo Credit: Yarnika")
+![Kid putting money into a piggy bank]({{ site.baseurl }}/assets/kid-and-piggy-bank__large.jpg "Photo Credit: Yarnika")
 
 
 There’s a whole research area called [economic psychology](http://www.journals.elsevier.com/journal-of-economic-psychology/), looking at the psychological factors that drive people’s financial decision-making: how much to save and when, what risks to take with money, when and how much to spend and on what, that sort of things. It’s interesting stuff. There are also a few developmental researchers who are interested in the development of financial decision-making. Specifically, people are interested in children’s saving behaviours: at what age can children save? What are the skills that help them to save? Is there anything we can do to raise financially prudent citizens?

@@ -3,7 +3,7 @@ layout: post
 title: New Year Resolutions
 date: 2016-01-07 10:24:45.000000000 +00:00
 ---
-![Happy New Year]({{ site.baseurl }}assets/Happy New Year.jpg)
+![Happy New Year]({{ site.baseurl }}/assets/Happy New Year.jpg)
 
 ## The Dilemma of New Year Resolutions
 

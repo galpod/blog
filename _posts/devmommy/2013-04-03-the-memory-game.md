@@ -5,7 +5,7 @@ date: 2013-04-03 21:20:03.000000000 +01:00
 
 ---
  
-![Forget-me-nots]({{ site.baseurl }}assets/forget-me-nots2.jpg "Photo Credit: NesQuarX")
+![Forget-me-nots]({{ site.baseurl }}/assets/forget-me-nots2.jpg "Photo Credit: NesQuarX")
 
 So, after our in-depth [exploration of inhibitory control](https://galpod.com/when-simon-doesnt-say-inhibitory-control-in-children/) and [all it means](https://galpod.com/the-marshmallow-task-revisited/), we are ready to plunge into the next construct that is typically a part of [Executive Function](https://galpod.com/whos-the-executive/). This process is the “updating” process, or working memory.
 

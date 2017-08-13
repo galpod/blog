@@ -4,7 +4,7 @@ title: On Affordances And Raising The Bar
 date: 2014-01-30 22:15:08.000000000 +00:00
 ---
 
-![Monkey Bars]({{ site.baseurl }}assets/monkey-bars.jpg)
+![Monkey Bars]({{ site.baseurl }}/assets/monkey-bars.jpg)
 
 ## Some thoughts about affordances. Then, some thoughts about the accessibility of science.
 

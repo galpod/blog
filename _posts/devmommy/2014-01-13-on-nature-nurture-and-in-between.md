@@ -3,7 +3,7 @@ layout: post
 title: On Nature, Nurture, and In Between
 date: 2014-01-13 20:43:42.000000000 +00:00
 ---
-![Triplets!]({{ site.baseurl }}assets/tripletsgirls.jpg)
+![Triplets!]({{ site.baseurl }}/assets/tripletsgirls.jpg)
 
 So, I’ve been kind of busy. I’ve been doing all kinds of fun stuff, but one that I’m really enjoying (and takes up most of my time now) is teaching an introduction to developmental psychology class. I’m very excited about this opportunity, and I’ve re-discovered how much I love to teach. But my amusement is not the topic today. I’ve been researching articles that are far off my field for this course, and one that I found completely blew my mind, so I’m going to write about it even though it’s fairly “old” for the post-twitter era (published in 2007). In a psychological journal article, this would qualify as “recent research”. So, this might be common knowledge, but I took my intro dev psych in 2002 and my last “genetic bases of developmental disorders” course in 2006, so there you go.
 

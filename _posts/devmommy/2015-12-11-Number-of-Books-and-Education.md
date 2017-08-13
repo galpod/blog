@@ -3,7 +3,7 @@ layout: post
 title: Number of Books and Education
 date: 2015-12-11 10:24:45.000000000 +00:00
 ---
-![A boy reads a book in a library]({{ site.baseurl }}assets/Boy in Library.jpg)
+![A boy reads a book in a library]({{ site.baseurl }}/assets/Boy in Library.jpg)
 
 ## Is the lack of physical books problematic for children's education?
 
