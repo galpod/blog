@@ -5,7 +5,7 @@ date: 2012-11-15 22:11:12.000000000 +00:00
 image: mind-reading-machines-on-their-way-13244385591.jpg
 image-text: Mind Reading Machine
 excerpt: Adults read minds all the time. Children, however, are not so great at it. How come?
-type: post
+new: true
 
 ---
 
