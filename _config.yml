@@ -6,11 +6,11 @@ author:
   name: "Gal Podjarny"
 
 # Build settings
-baseurl: / 
 markdown: kramdown
 source: .
 destination: ./_site
 permalink: /:title
+baseurl: /
 
 # Default values
 defaults:
