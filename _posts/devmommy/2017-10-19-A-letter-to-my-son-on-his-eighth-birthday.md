@@ -2,7 +2,7 @@
 layout: post
 title: A Letter To My Son On His 8th Birthday
 date: 2017-11-06 10:24:45.000000000 +00:00
-image: Beaker-birthday-cake.jpg
+image: Beaker-birthday-cake.JPG
 image-text: It's a beaker. Why, what did you think it was?
 excerpt: I've been a mother for 8 years! But this is not about me.
 new: true
