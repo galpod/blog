@@ -16,18 +16,18 @@ layout: null
  </author>
 
  {% for post in site.posts limit: 10 %}
-
- <entry>
-   <title>{{ post.title }}</title>
-   <link href="{{ site.url }}{{ post.url }}"/>
-   <id>{{ site.url }}{{ post.id }}</id>
-   <updated>{{ post.date | date_to_xmlschema }}</updated>
-   <content type="html">
-     &lt;img width="100%" style="width:100%" src="{{ site.url }}assets/{{ post.image }}" alt="{{ post.image-text }}"&gt;&lt;br/&gt;
-     {{ post.content | xml_escape | truncatewords:50 }}
-   </content>
- </entry>
-
+	  {% if post.category != "author" and post.category != "story" %}
+  <entry>
+    <title>{{ post.title }}</title>
+    <link href="{{ site.url }}{{ post.url }}"/>
+    <id>{{ site.url }}{{ post.id }}</id>
+    <updated>{{ post.date | date_to_xmlschema }}</updated>
+    <content type="html">
+      &lt;img width="100%" style="width:100%" src="{{ site.url }}assets/{{ post.image }}" alt="{{ post.image-text }}"&gt;&lt;br/&gt;
+      {{ post.content | xml_escape | truncatewords:50 }}
+    </content>
+  </entry>
+  {% endif %}
  {% endfor %}
 
 </feed>
