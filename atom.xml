@@ -16,7 +16,7 @@ layout: null
  </author>
 
  {% for post in site.posts limit: 10 %}
-	  {% if post.category != "author" and post.category != "story" %}
+	  {% if post.category == "DM" %}
   <entry>
     <title>{{ post.title }}</title>
     <link href="{{ site.url }}{{ post.url }}"/>

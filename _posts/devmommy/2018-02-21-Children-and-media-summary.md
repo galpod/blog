@@ -6,6 +6,7 @@ image: child-parent-computer.jpg
 image-text: Child and parent using a laptop
 excerpt: What are the main issues that emerged from the children and media series?
 new: true
+category: DM
 ---
 This post has been long due. If you were following lately, I did a series of posts about children and media. I talked about [comparing parent-read book to media-read book](https://galpod.com/parents-vs-media), I talked about [asking kids](https://galpod.com/How-children-think-they-learn-from-media) what they think is the best tool for learning, and what can they **really** [learn](https://galpod.com/can-children-learn-from-media), I talked about using media and computer games to [promote mental well-being](https://galpod.com/Media-Benefits), and about the role that media (touch screens in particular) plays in the [classroom](https://galpod.com/Teaching-Children-using-media). In this post I want to talk about major points that arose from the series.
 
