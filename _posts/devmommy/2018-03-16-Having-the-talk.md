@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Having "The Talk"
+title: Having &#34;The Talk&#34;
 date: 2018-03-16 10:24:45.000000000 +00:00
 image: Hummingbird-Bee.jpg
 image-text: A Hummingbird and a bee.
